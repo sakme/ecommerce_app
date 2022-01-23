@@ -27,8 +27,7 @@ The The eCommerce Back End is a back end Express JS app for managing an e-commer
 
 1. Open a terminal session and run "npm start" to launch the back end on your localhost.
 
-[Walkthrough Video Part 1](https://watch.screencastify.com/v/MVjun0qNffqwlANnFZPz)  
-[Walkthrough Video Part 2](https://watch.screencastify.com/v/S0jLeiW4JB3oGuUxm9V2)
+[Walkthrough Video Part](https://watch.screencastify.com/v/0ULRs0EvUSH8tBIlnhjo)  
 
 ## License
 
